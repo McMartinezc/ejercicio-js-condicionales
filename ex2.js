@@ -1,5 +1,5 @@
 /*
-¿Que va a mostrar por el terminal cuando hagamos node ex2.js? ¿Por qué?
+¿Que va a mostrar por el terminal cuando hagamos node ex2.js? ¿Por qué? Cuack no cumple la primera condición pasa a la siguiente 
 */
 
 let numero = 3;
